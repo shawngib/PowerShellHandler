@@ -1,0 +1,8 @@
+c:\users\shawngib\documents\visual studio 2013\Projects\PoshHandler\PoshHandler\bin\Debug\PoshHandler.dll
+c:\users\shawngib\documents\visual studio 2013\Projects\PoshHandler\PoshHandler\bin\Debug\PoshHandler.pdb
+c:\users\shawngib\documents\visual studio 2013\Projects\PoshHandler\PoshHandler\obj\Debug\PoshHandler.dll
+c:\users\shawngib\documents\visual studio 2013\Projects\PoshHandler\PoshHandler\obj\Debug\PoshHandler.pdb
+\\192.168.1.5\c$\Users\shawngib\Documents\Visual Studio 2013\Projects\PoshHandler\PoshHandler\bin\Debug\PoshHandler.dll
+\\192.168.1.5\c$\Users\shawngib\Documents\Visual Studio 2013\Projects\PoshHandler\PoshHandler\bin\Debug\PoshHandler.pdb
+\\192.168.1.5\c$\Users\shawngib\Documents\Visual Studio 2013\Projects\PoshHandler\PoshHandler\obj\Debug\PoshHandler.dll
+\\192.168.1.5\c$\Users\shawngib\Documents\Visual Studio 2013\Projects\PoshHandler\PoshHandler\obj\Debug\PoshHandler.pdb
